@@ -1,8 +1,7 @@
-#Welcome to Guardian School Transit Pre-Trip Bot Terms Of Service.
+# Welcome to Guardian School Transit Pre-Trip Bot Terms Of Service.
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Guardian School Transit Bot - Terms of Service</title>
 </head>
 <body>
   <h1>🚌 Guardian School Transit Bot Terms of Service</h1>
